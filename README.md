@@ -1,6 +1,7 @@
 # Olá, bem vindo(a) , você chegou a estação de repositórios Suelen Feijó 
 
 - 💻 Me preparando para ser dev back-end , estudante ADS
+- 🎓 Aluna instituto proa
 - 🚀 Atualmente trabalhando em um projeto de uma startup (conheça no botão abaixo)
   <br/><a href="https://www.linkedin.com/in/conectagraxa/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
