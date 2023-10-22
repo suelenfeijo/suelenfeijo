@@ -8,9 +8,9 @@
 </a>
 
   
-</br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suelenfeijo&show_icons=true&theme=dracula&locale=pt-br)
+</br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suelenfeijo&show_icons=true&theme=transparent&locale=pt-br)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suelenfeijo&layout=compact&theme=dracula&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suelenfeijo&layout=compact&theme=transparent&locale=pt-br)
 
 > redes sociais
 <a href="https://www.linkedin.com/in/suelenfeijomelo/" target="_blank">
