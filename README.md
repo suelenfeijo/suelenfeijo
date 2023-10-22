@@ -1,13 +1,15 @@
-# Opa, bem vindo(a) , Suelen Feijó aqui.
-- 💻 Me preparando para ser dev back-end
-- 👀 Estou estudando Java, Spring , JPA , SQL , Cloud , e outros...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Olá, bem vindo(a) , você chegou a estação de repositórios Suelen Feijó 
+
+- 💻 Me preparando para ser dev back-end , estudante ADS
+- 🚀 Atualmente trabalhando em um projeto de uma startup (conheça no botão abaixo)
+  <br/><a href="https://www.linkedin.com/in/conectagraxa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
   
-</br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suelenfeijo&show_icons=true&theme=transparent&locale=pt-br)
+</br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suelenfeijo&show_icons=true&theme=dracula&locale=pt-br)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suelenfeijo&layout=compact&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suelenfeijo&layout=compact&theme=dracula&locale=pt-br)
 
 <a href="https://www.linkedin.com/in/suelenfeijomelo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
