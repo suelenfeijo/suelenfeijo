@@ -1,8 +1,8 @@
-# Olá, bem vindo(a) , você chegou a estação de repositórios Suelen Feijó 
+# Hello, welcome, you have arrived at the Suelen Feijó repository station
 
-- 💻 Me preparando para ser dev back-end , estudante ADS
-- 🎓 Aluna instituto proa
-- 🎓 Aluna Fuctura Tecnologia
+- 💻 Preparing to be a back-end dev, ADS student
+- 🎓 Student instituto proa
+- 🎓 Student Fuctura Tecnologia
 
 
   
@@ -10,7 +10,7 @@
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suelenfeijo&layout=compact&theme=transparent&locale=pt-br)
 
->  #### redes sociais
+>  #### Network
 <a href="https://www.linkedin.com/in/suelenfeijomelo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
