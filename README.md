@@ -1,8 +1,9 @@
 # Hello, welcome, you have arrived at the Suelen Feijó repository station
 
-- 💻 Preparing to be a back-end dev, ADS student
+- 💻 Software developer, ADS student
 - 🎓 Student instituto proa
 - 🎓 Student Fuctura Tecnologia
+- 🎓 Student at Aliança Institute
 
 
   
